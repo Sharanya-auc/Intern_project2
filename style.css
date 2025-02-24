@@ -8,7 +8,7 @@ body {
     flex-direction: column;
     text-align: center;
 
-    background-image: url('/b2.jpg');
+    background: url('/b2.jpg');
     background-size: cover;
     background-position: center;
 
